@@ -1,11 +1,8 @@
-import jdk.nashorn.internal.runtime.regexp.joni.constants.internal.OPCode;
 import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
-import org.openqa.selenium.support.ui.Select;
-
 import java.util.Iterator;
 import java.util.List;
 import java.util.Set;
