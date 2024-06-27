@@ -23,7 +23,7 @@ static {
 
     wait=new WebDriverWait(driver,Duration.ofSeconds(20));
 
-    driver.get("https://demowebshop.tricentis.com/");
+    driver.get("https://techno.study/tr/");
 }
 public static void WaitAndQuit(){
 OptionalWait(5);
